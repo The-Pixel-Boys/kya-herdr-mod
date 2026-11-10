@@ -1,0 +1,3 @@
+{
+  "global": { "alt-k": { "command": "mod.open", "args": { "name": "kya" } } }
+}
